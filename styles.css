@@ -811,7 +811,7 @@ html {
 }
 
 /* media query*/
-@media(max-width:360px) {
+@media(max-width:700px) {
     .sec1__menuIcon {
         display: inline-block;
     }
